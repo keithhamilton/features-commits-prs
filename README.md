@@ -11,10 +11,3 @@ of git flow.
 This document is not intended to be a prescription; it is intended to be a
 proposal spec for, and an ask of a uniform conformity to a more structured
 process when developing code as a team.
-
-#####Table of Contents
-* [Introduction](README.md)
-* [Feature Branches](feature_branches.md)
-* [Commits](commits.md)
-* [Pull Requests](pull_requests.md)
-* [Git Composite Flow](git_composite_flow.md)
