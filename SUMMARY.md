@@ -4,5 +4,5 @@
 * [Feature Branches](feature_branches.md)
 * [Commits](commits.md)
 * [Pull Requests](pull_requests.md)
-* Git Composite Flow
+* [Git Composite Flow](git_composite_flow.md)
 
