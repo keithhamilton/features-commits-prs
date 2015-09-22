@@ -1,5 +1,6 @@
-#Feature Branches
-###What is a "Feature Branch"?
-###Why Make a Feature Branch?
-###Naming Your Feature Branch
-###How to Make a Feature Branch
+* [What is a Feature Branch?](what-is-a-feature-branch.md)
+  * [Why Make one?](why-make-one.md)
+  * [Picking a Name](picking-a-name.md)
+  * [Creating Your Feature Branch](creating-your-feature-branch.md)
+  * [One Feature, One Branch](one-feature-one-branch.md)
+  * [Recap: 5 Elements of a Good Feature Branch](recap-5-elements-of-a-good-feature-branch.md)
