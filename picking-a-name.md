@@ -16,18 +16,18 @@ for the fun part; actually naming it. A good name for a feature branch should
 clarify to any viewer *rather precisely* what the feature branch does, as well
 as remain terse in nature:
 
-Bad Branch Names
------------
-*fb-update*
-*fb-refactor*
-*fb-change-feature*
+| Bad Branch Names |
+| ----------- |
+| *fb-update* |
+| *fb-refactor* |
+| *fb-change-feature* |
 
-Good Branch Names
------------------
-*fb-feature-speech-synthesis*
-*fb-refactor-router*
-*fb-feature-twitter-streaming*
-*fb-bug-profanity-filter*
+| Good Branch Names |
+| ----------------- |
+| *fb-feature-speech-synthesis* |
+| *fb-refactor-router* |
+| *fb-feature-twitter-streaming* |
+| *fb-bug-profanity-filter* |
 
 A few things to note in the above table:
 * the qualifying type of feature branch, such as *feature* or *refactor*,
