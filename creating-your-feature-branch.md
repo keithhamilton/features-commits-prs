@@ -5,8 +5,8 @@ branch.
 
 1) Always make sure you are on your stable development branch, and that it is up-to-date.
 
-    $ git checkout <stable-development-branch>
-    $ git pull origin <stable-development-branch>
+    $ git checkout stable-development-branch
+    $ git pull origin stable-development-branch
 
 2) Using the name you chose, create your branch.
 
