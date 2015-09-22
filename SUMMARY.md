@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Early Credits](early-credits.md)
+* [Conventions Used in this Book](conventions.md)
 * [Feature Branches](feature_branches.md)
   * [What is a Feature Branch?](what-is-a-feature-branch.md)
   * [Why Make a Feature Branch?](why-make-a-feature-branch.md)
@@ -24,7 +26,7 @@
   * [You May Get Feedback](you-may-get-feedback.md)
   * [The Merge: Sending Your Pull Request Home](the-merge-sending-your-pull-request-home.md)
   * [Recap: Giving Your Pull Request the Chance It Deserves](recap-giving-your-pull-request-the-chance-it-deserves.md)
-* [Git Composite Flow](git_composite_flow.md)
+* [Git Composite Flow](git_composite_flow.md)o
   * [First: Git Flow and GitHub Flow](first-git-flow-and-github-flow.md)
   * [Beyond the Develop Branch](beyond-the-develop-branch.md)
   * [Introducing the Composite Branch](introducing-the-composite-branch.md)
