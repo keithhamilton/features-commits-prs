@@ -17,13 +17,13 @@ clarify to any viewer *rather precisely* what the feature branch does, as well
 as remain terse in nature:
 
 | Bad Branch Names |
-| ----------- |
+| :----------- |
 | *fb-update* |
 | *fb-refactor* |
 | *fb-change-feature* |
 
 | Good Branch Names |
-| ----------------- |
+| :----------------- |
 | *fb-feature-speech-synthesis* |
 | *fb-refactor-router* |
 | *fb-feature-twitter-streaming* |
