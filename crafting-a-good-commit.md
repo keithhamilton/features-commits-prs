@@ -11,7 +11,7 @@ In any event, a good commit message subject should:
 * Address, as specifically as possible, the change being made
 * Use the imperative voice
 
-###Single-line (Subject-only) Commit Messages
+###Single-line (Subject-only) commit messages
 When a commit is sufficiently simple in scope, the body can be skipped
 altogether in favor of a single-line commit message, using the `-m` option. Note
 that the above guidelines should be used for a single-line commit message. For example:
@@ -24,7 +24,7 @@ the commit), and it more information about what the change was is needed, one ne
 
     $ git show [commit sha]
 
-###Detailed Commit Messages
+###Detailed commit messages
 When more detail is needed, a full commit message can be written using the
 shorter form `git commit`.
 
