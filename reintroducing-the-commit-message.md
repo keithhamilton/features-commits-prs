@@ -8,35 +8,42 @@ smallest unit of measurement available to a developer contributing to a project.
 What is often overlooked, however, is how important this simple element of
 source control is improperly used.
 
-###Is it what you think it is?
-Before getting into the commit message, I'd like you to sit back, take a second,
-and silently come up with an answer to this question:
+###What do you think a commit is?
+Before getting into the commit message, go ahead and take a second to come up
+with an answer to this question:
 
 > What is a commit message?
 
-Did you get an answer? Great. Was it something like:
+Did you get an answer? Great, keep it in mind and keep reading.
 
-> A statement of what was done to a file...?
-> A message detailing what happened...?
-> A log entry about a change that was made...?
-> Something you do before pushing code...?
+###A commit is small, with broad-reaching implications
+Lexically speaking, the commit message is the smallest unit of composition in
+source-controlled code. It is the building block upon which all other actions
+are constructed. Afterall, source control is merely a construct through which
+changes are tracked and recorded.
 
-If you said something like the above, it wouldn't be surprising, because most
-people don't think of commit messages as communication tools, rather simply log
-entries.
+###A commit is a record of history
+At any point in the lifetime of a source-controlled codebase, any commit can be
+called up at any time, and reverted to, investigated, or re-applied to the
+codebase. A commit is a living record of something that happened in time, but
+also is like a pawn in chess: small, but with the ability to make dramatic
+changes in the flow of a project.
 
-*Communication tools* are used to facilitate communication. Communication is the
-practice of clarifying intent, and exchanging information to satisfy intent.
-Clarifying intent is achieved through providing context.
+###A commit is a powerful tool
+A commit can be replayed on its codebase, merged into other commits to provide
+concision to a history log, and lead team mates to an investigative conclusion,
+much like a bread crumb trail. To do any of this, however, commits must provide
+context as to the what and why of any change recorded in our code's history.
+Without an understanding of what and why, replaying and merging commits together
+becomes overly laborious, and investigating their reason becomes exhausting.
 
-###What is a commit message?
+###So, what is a commit message?
 I submit that a commit message, most fundamentally, is:
 
 > The base tool through which we record context about changes to our code.
 
 Note that it is possible to *make a statement about what was done to a file,*
 *detail what happened,* or *create a log entry about a change that was made,* all
-without providing ***context***.
-
-Context is the fundamental difference between a good commit message, and a bad one.
-
+without providing ***context***. Doing any of those without providing
+context, however, is a boot in the eye of your fellow developer, and perhaps, more
+importantly, your future self.
