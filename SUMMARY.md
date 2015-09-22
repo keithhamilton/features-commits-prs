@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Feature Branches](feature_branches.md)
   * [What is a Feature Branch?](what-is-a-feature-branch.md)
-  * [Why Make one?](why-make-one.md)
+  * [Why Make a Feature Branch?](why-make-a-feature-branch.md)
   * [Picking a Name](picking-a-name.md)
   * [Creating Your Feature Branch](creating-your-feature-branch.md)
   * [One Feature, One Branch](one-feature-one-branch.md)
