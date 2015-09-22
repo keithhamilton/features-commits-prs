@@ -10,6 +10,6 @@ branch.
 
 2) Using the name you chose, create your branch.
 
-    $ git checkout -b <my-stellar-feature-branch-name>
+    $ git checkout -b my-stellar-feature-branch-name
 
 3) You're done.
