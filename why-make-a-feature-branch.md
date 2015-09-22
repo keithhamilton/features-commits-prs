@@ -16,6 +16,7 @@ certainly want to keep it running. This is the first, *and perhaps most
 compelling*, reason to make feature branches when developing your code:
 
 > If you deploy directly to master, you endanger your product.
+
 If you're familiar with *git flow*, you will recognize the use of the *develop*
 branch. The *develop* branch, is, in its basic nature, a giant feature branch
 that distinguishes production-ready code, from in-progress code. You and your
@@ -24,6 +25,7 @@ periodically submit pull requests to the *develop* branch for inclusion. This
 brings up the second important reason to make a feature branch:
 
 > By using feature branches, you protect the code your teammates have written.
+
 Working on a team requires many authors to develop independently, gradually
 weaving their code back together into a unified branch, much as a braided rope
 consists of multiple, smaller, ropes that unify into a stronger entity. By using
@@ -35,6 +37,7 @@ current stable development branch, without worry about others' experimentation.
 Which brings us to the third compelling reason to use feature branches.
 
 > Developing in feature branches allows you to fail with grace.
+
 One of the best outcomes of working in feature branches is that, by doing so,
 you permit yourself the opportunity to fail without consequence, excepting time
 spent failing, which arguably has its own merits.
@@ -51,7 +54,7 @@ you left it. No harm, no foul!
 
 However, it may have been nice to have someone else's eyes on that code you just threw
 away, and we'll get to that in the section on
-*[[pull requests|pull_requests.md]]*. Incidentally, this is the last major *why*
+[*pull requests*](pull_requests.md). Incidentally, this is the last major *why*
 when it comes to the purpose of making a feature branch.
 
 > Feature branching leads directly to code reviews.
