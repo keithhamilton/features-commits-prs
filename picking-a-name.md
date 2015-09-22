@@ -36,6 +36,18 @@ should always directly follow the initials of the feature branch's creator
 little insight as to *what* is being updated or refactored.
 * using longer branch names is ok, but limit to five terms or fewer (including
 the branch type qualification)
+* longer names are **always** preferrable to ambiguous names
 
-That's pretty much it on naming your feature branch. Just keep it terse,
-descriptive, and always use your initials.
+###Branch Naming Template
+For consistent results, consider using the following template when naming a
+branch:
+
+    [Initials]-[purpose]-[name]
+
+Where purpose is one of:
+* feature
+* refactor
+* bug-fix
+* hot-fix
+* experimental
+
