@@ -17,3 +17,9 @@ this in [*Keeping Your Features Separate*](keeping-your-features-separate.md).
 your stable development branch, *then* create your new feature branch.
 
 > Remember, if you create a feature branch from an existing feature branch, the former will contain all of the changes in the latter, and that is bad.
+
+Ona final note, if self-preservation is a motivating factor for you, consider
+this: when you start making multiple feature changes within one feature branch,
+*you dramatically increase the likelihood of merge conflicts* occurring when you
+re-integrate your code. If you hate fixing merge conflicts, consider limiting
+the scope of your feature branch.
