@@ -7,7 +7,7 @@
   * [Picking a Name](picking-a-name.md)
   * [Creating Your Feature Branch](creating-your-feature-branch.md)
   * [One Feature, One Branch](one-feature-one-branch.md)
-  * [Recap: 5 Elements of a Good Feature Branch](recap-5-elements-of-a-good-feature-branch.md)
+  * [Recap: Elements of a Good Feature Branch](recap-elements-of-a-good-feature-branch.md)
 * [Commits](commits.md)
   * [Reintroducing: The Commit Message](reintroducing-the-commit-message.md)
   * [Commits Add Context](commits-add-context.md)
